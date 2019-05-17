@@ -1,4 +1,4 @@
-#**CIFAR-10 Convolutional Neural Network**
+#CIFAR-10 Convolutional Neural Network
 
 Implementation of two models in Keras for the classification of the CIFAR-10 dataset.
 
